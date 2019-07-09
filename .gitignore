@@ -1,0 +1,6 @@
+_SpecRunner.html
+npm-debug.log
+/dist/
+.idea/
+/node_modules/jest-cli/.haste_cache/
+node_modules/
